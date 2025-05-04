@@ -175,3 +175,6 @@ cython_debug/
 
 # Added
 dataset/
+optuna_test/
+lightning_logs/
+model_artifacts/
