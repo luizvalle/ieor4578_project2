@@ -178,3 +178,8 @@ dataset/
 optuna_test/
 lightning_logs/
 model_artifacts/
+
+notebooks/clustering/secrets.json
+notebooks/clustering/online_retail.json
+notebooks/clustering/online_retail_II.xlsx
+notebooks/clustering/sbert_embeddings_part2.pkl
