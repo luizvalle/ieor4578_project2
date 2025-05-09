@@ -40,6 +40,7 @@ frozenlist==1.6.0
 fsspec==2025.3.2
 fuzzywuzzy==0.18.0
 google-auth==2.39.0
+google-colb==1.0.0
 google-genai==1.11.0
 grpcio==1.71.0
 h11==0.14.0
@@ -169,6 +170,7 @@ statsmodels==0.14.4
 sympy==1.13.1
 tensorboard==2.19.0
 tensorboard-data-server==0.7.2
+tensorflow==2.12.0
 terminado==0.18.1
 threadpoolctl==3.6.0
 tinycss2==1.4.0
