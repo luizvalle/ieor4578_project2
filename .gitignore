@@ -178,5 +178,6 @@ dataset/
 optuna_test/
 lightning_logs/
 model_artifacts/
+checkpoints/
 
 notebooks/clustering/secrets.json
